@@ -1,0 +1,33 @@
+h1{
+        text-align: center;
+        color:blue;
+        font-size: larger;
+        font-weight: bolder;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-style: initial;
+        font-display: 5px;
+        padding-left: 0;
+        padding-right: 0;
+        margin: auto;
+        text-shadow: 12px;
+        text-align: center;
+        transition-delay: 2secs;
+}
+h2{
+        color: aliceblue;
+        text-align: center;
+        font-size: 56px;
+        font-size: 56px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-style: oblique;
+        font-display: 12px;
+        font-stretch: extra-condensed;
+        font-weight: bold;
+}
+button{
+        border-radius: 12px;
+        border-width: 8px;
+        border-style: outset;
+        border-color: blue;
+        border-image-source: -moz-element(12px);
+}
